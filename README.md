@@ -7,4 +7,4 @@
 ####For local development run `gulp serve`
 ####Bulid dist folder run `gulp`
 
-scaffolded with `yo gulp-web-app' (docs)[https://github.com/yeoman/generator-gulp-webapp]
+scaffolded with `yo gulp-web-app' [docs](https://github.com/yeoman/generator-gulp-webapp)
