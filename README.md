@@ -1,6 +1,6 @@
 ###Initial Commit to Repo
 
-* Clone Repo
+* Clone Repo `git@github.com:kencrocken/test-site.git`
 * `npm install`
 * `bower install`
 
