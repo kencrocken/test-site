@@ -1,0 +1,9 @@
+{
+  "name": "bts-test-site",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bourbon": "4.0.2",
+    "neat": "1.7.1"
+  }
+}
