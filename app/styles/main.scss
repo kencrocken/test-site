@@ -25,7 +25,7 @@ body {
 }
 
 .wrap .honeycomb {
-  display: block;
+  display: none;
   position: absolute;
   top: -47px;
   left: -13px;
@@ -149,7 +149,7 @@ nav {
 
 .jumbo {
   padding: 15px;
-  margin-bottom: em(150);
+  margin-bottom: em(250);
   h1 {
     font-family: $jumbo-header;
     text-align: center;
@@ -197,6 +197,7 @@ footer.top {
     position: absolute;
     left: 0;
     right: 0;
+    bottom:20px;
     margin: 0 auto;
     width: 100%;
     text-align: center;
@@ -221,8 +222,7 @@ footer.top {
   // @include outer-container(100);
   height: 100%;
   .main {
-    margin: em(100) auto;
-    background-color: $bts-red;
+    margin: em(20) auto;
     height: em(500);
   }
   .jumbo {
@@ -234,8 +234,9 @@ footer.top {
   }
 }
 
+.who-we-are { background-color: $bts-red; }
 .what-we-do {
-  .main {background-color: #fafafa;}
+  background-color: #fafafa;
   .jumbo h1 { color: $bts-red; }
 }
 
